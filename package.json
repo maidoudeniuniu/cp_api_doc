@@ -1,0 +1,26 @@
+{
+  "name": "cp_api_doc",
+  "version": "1.0.0",
+  "description": "多融产品api文档",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maidoudeniuniu/cp_api_doc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maidoudeniuniu/cp_api_doc/issues"
+  },
+  "homepage": "https://github.com/maidoudeniuniu/cp_api_doc#readme",
+  "dependencies": {
+    "vuepress": "^1.8.2",
+    "vuepress-plugin-demo-container": "^0.2.0"
+  }
+}
